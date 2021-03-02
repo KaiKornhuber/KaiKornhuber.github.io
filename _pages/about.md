@@ -44,5 +44,5 @@ https://www.nytimes.com/2019/07/01/climate/europe-heat-wave.html
 
 Research Highlights
 ------
-PAPERS
+
 
