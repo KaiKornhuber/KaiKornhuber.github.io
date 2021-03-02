@@ -1,7 +1,7 @@
 ---
 title: "Kai Kornhuber | Weather and Climate Risks"
 excerpt: ""
-sitemap: false
+sitemap: true
 permalink: /about.md
 ---
 
