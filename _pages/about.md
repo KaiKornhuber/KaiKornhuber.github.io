@@ -1,8 +1,8 @@
 Short Bio
-======
+------
 
 Upcoming Events 
-======
+------
 EGU session
 Risk KAN Webinar
 SRI Sustainability Conference
