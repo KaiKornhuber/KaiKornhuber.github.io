@@ -8,8 +8,6 @@ redirect_from: #
   - /aboutx.html
 ---
 
-
-------
 ![ERA5_SAT](https://kaikornhuber.github.io/images/test_ERA5_sat_wave7.png)
 
 Upcoming Events 
