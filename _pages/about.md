@@ -8,10 +8,11 @@ redirect_from: #
   - /aboutx.html
 ---
 
+------
 ![ERA5_SAT](test_ERA5_sat_wave7.png)
 
-Short Bio
-------
+
+
 
 Upcoming Events 
 ------
