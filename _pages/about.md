@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kai Kornhuber Weather and Climate Risks"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
