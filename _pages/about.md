@@ -1,3 +1,10 @@
+---
+title: "Kai Kornhuber | Weather and Climate Risks"
+excerpt: ""
+sitemap: false
+permalink: /about.md
+---
+
 Short Bio
 ------
 
