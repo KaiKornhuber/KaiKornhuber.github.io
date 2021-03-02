@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kai Kornhuber / Extreme Weather and Climate"
+title                    : "Kai Kornhuber / Extreme Weather and Climate Risks"
 title_separator          : "-"
-name                     : &name "Kai Kronhuber"
+name                     : &name "Kai Kornhuber"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kai Kornhuber"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Climate Scientist at Earth Institute, Columbia University. Focus on jet dynamics, weather and climate extremes and systemic risks"
   location         : "Brooklyn, New York"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
