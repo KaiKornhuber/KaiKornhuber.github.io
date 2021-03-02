@@ -1,10 +1,12 @@
 ---
-title: "Kai Kornhuber | Weather and Climate Risks"
-excerpt: ""
-sitemap: true
-permalink: /about.md
+permalink: /
+title: "Kai Kornhuber | Weather and Climate Risks"
+excerpt: "I'm a climate scientist at the Earth Institute, Columbia University."
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
 Short Bio
 ------
 
