@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-(*\ Denotes Non-Peer reviewed publications such as book chapters, comments and magazine and blog-articles)
 
 #### Submitted / in Revision
 
@@ -42,7 +41,7 @@ C. Huntingford, D. Mitchell, **K. Kornhuber**, D. Coumou, S. Osprey, Myles Allen
 **K. Kornhuber** in Aus Politik und Zeitgeschichte
 (Issue on Weather, Bundeszentrale für politische Bildung, December 2019)
 
-*\ P. Pfleiderer, **K. Kornhuber**, D. Coumou, C. F. Schleussner: How extreme weather conditions could last longer due to climate change. [*Carbon Brief*](https://www.carbonbrief.org/guest-post-how-extreme-weather-conditions-could-last-longer-due-to-climate-change) (2019)
+\* P. Pfleiderer, **K. Kornhuber**, D. Coumou, C. F. Schleussner: How extreme weather conditions could last longer due to climate change. [*Carbon Brief*](https://www.carbonbrief.org/guest-post-how-extreme-weather-conditions-could-last-longer-due-to-climate-change) (2019)
 
 C. Raymond, D. Coumou, T. Foreman, A. King, S. Perkins-Kirkpatrick, **K. Kornhuber**, C. Lesk, C. Mora, S. Russo, and S. Vijverberg: Projections and Hazards of Future Extreme Heat (eds. Tad Pfeffer, Joel Smith, K. L. Ebi), Oxford University Press. (2019)
 
@@ -55,7 +54,7 @@ M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller, S. Pet
 
 V. Petoukhov, S. Petri, **K. Kornhuber**, K. Thonicke, D. Coumou, and H. J. Schellnhuber: Alberta wildfire 2016: A potential contribution from anomalous planetary wave dynamics. *Sci. Reports* 8, 12375 (2018).[doi:10.1038/s41598-018-30812-z](https://www.nature.com/articles/s41598-018-30812-z)
 
-*\ Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner: Hot, dry or flooded - more weather extremes beyond 1.5° warming.(The Climate Analytics Blog, August 2018). [link](https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/)
+\* Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner: Hot, dry or flooded - more weather extremes beyond 1.5° warming.(The Climate Analytics Blog, August 2018). [link](https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/)
 
 #### 2016-2017 
  
@@ -65,14 +64,14 @@ V. Petoukhov, S. Petri, **K. Kornhuber**, K. Thonicke, D. Coumou, and H. J. Sche
 
 M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller and D. Coumou, Influence of Anthropogenic Climate Change on Planetary Wave Resonance and Extreme Weather Events, *Sci. Reports* 7, 45242 (2017). [doi:10.1038/srep45242](https://www.nature.com/articles/srep45242)
 
-*\ D. Coumou, **K. Kornhuber**, J. Lehmann and V. Petoukhov in Climate Extremes: Patterns and Mechanisms (eds. Wang, S.-Y.S.Yoon,j.-H., Funk, C.C. & Gillies, R.R.) 61-73, John Wiley & Sons (2017). [doi: 10.1002/9781119068020.ch4](https://www.wiley.com/en-us/Climate+Extremes%3A+Patterns+and+Mechanisms-p-9781119067849)
+\* D. Coumou, **K. Kornhuber**, J. Lehmann and V. Petoukhov in Climate Extremes: Patterns and Mechanisms (eds. Wang, S.-Y.S.Yoon,j.-H., Funk, C.C. & Gillies, R.R.) 61-73, John Wiley & Sons (2017). [doi: 10.1002/9781119068020.ch4](https://www.wiley.com/en-us/Climate+Extremes%3A+Patterns+and+Mechanisms-p-9781119067849)
 
 V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Schellnhuber, The role of quasi-resonant planetary wave dynamics in recent boreal spring-to-autumn extreme events,*Proc. Natl. Acad. Sci.* ,113, 6863-6867 (2016). [doi:10.1073/pnas.1606300113](https://www.pnas.org/content/113/25/6862)
 
-*\ **K. Kornhuber**, COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele *Spektrum der Wissenschaft* (2016) [ger.](https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/)
+\* **K. Kornhuber**, COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele *Spektrum der Wissenschaft* (2016) [ger.](https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/)
 /[eng.](https://climate-exchange.org/2017/01/09/cop22-marrakesh-small-steps-towards-the-paris-climate-goals/)
 
-
+(*\ Denotes Non-Peer reviewed publications such as book chapters, comments and magazine and blog-articles)
 
 <!--{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
