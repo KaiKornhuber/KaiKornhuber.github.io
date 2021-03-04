@@ -3,9 +3,9 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: #
-  - /aboutx/
-  - /aboutx.html
+redirect_from: 
+  - /aboutx
+  - /about.html
 ---
 
 ![ERA5_SAT](https://kaikornhuber.github.io/images/test_ERA5_sat_wave7.png)
