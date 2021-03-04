@@ -35,7 +35,7 @@ C. Huntingford, D. Mitchell, **K. Kornhuber**, D. Coumou, S. Osprey, Myles Allen
 
 \* **K. Kornhuber** & A. Howden-Chapman: [How Weather Lost Its Innocence – an Illustrated History of Extreme Weather Attribution](https://www.anthroposphere.co.uk/post/how-weather-lost-its-innocence). *Anthroposphere - The Oxford Clim. Rev.* (2019). 
 
-\* **K. Kornhuber**: [Wetter im Wandel. Wie der Klimawandel unser Wetter der Zukunft beeinflusst] (https://www.bpb.de/apuz/302645/wetter).
+\* **K. Kornhuber**: [Wetter im Wandel. Wie der Klimawandel unser Wetter der Zukunft beeinflusst](https://www.bpb.de/apuz/302645/wetter).
 in *Aus Politik und Zeitgeschichte*, Bundeszentrale für politische Bildung (2019).
 
 \* P. Pfleiderer, **K. Kornhuber**, D. Coumou, C. F. Schleussner: [How extreme weather conditions could last longer due to climate change](https://www.carbonbrief.org/guest-post-how-extreme-weather-conditions-could-last-longer-due-to-climate-change). *Carbon Brief* (2019).
