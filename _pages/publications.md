@@ -10,7 +10,7 @@ author_profile: true
 
 #### 2021
 
-**K. Kornhuber** & Tamarin‐Brodsky, T.:  [Future changes in Northern Hemisphere summer weather persistence linked to projected Arctic warming](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL091603). *Geophysical Research Letters*, 48, e2020GL091603. (2021) doi:10.1029/2020GL091603
+**K. Kornhuber** & Tamarin‐Brodsky, T.:  [Future changes in Northern Hemisphere summer weather persistence linked to projected Arctic warming](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL091603). *Geophysical Research Letters*, 48, e2020GL091603 (2021). doi:10.1029/2020GL091603
 
 #### 2020
 
@@ -31,12 +31,12 @@ M. Drouard, **K. Kornhuber**, T. Woollings: [Disentangling dynamic contributions
 \* D. Mitchell, **K. Kornhuber**, C. Huntingford, P. Uhe: [The day the 2003 European heatwave record was broken](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(19)30106-8/fulltext). *The Lancet Planetary Health* 3, (7) 290-292 (2019). 
 doi:10.1016/S2542-5196(19)30106-8
 
-C. Huntingford, D. Mitchell, **K. Kornhuber**, D. Coumou, S. Osprey, Myles Allen: [Assessing changes in risk of amplified planetary waves in a warming world](https://rmets.onlinelibrary.wiley.com/doi/10.1002/asl.929). *Atmospheric Science Letters*, 20 (8) (2019) doi:10.1002/asl.929
+C. Huntingford, D. Mitchell, **K. Kornhuber**, D. Coumou, S. Osprey, Myles Allen: [Assessing changes in risk of amplified planetary waves in a warming world](https://rmets.onlinelibrary.wiley.com/doi/10.1002/asl.929). *Atmospheric Science Letters*, 20 (8) (2019). doi:10.1002/asl.929
 
-\* **K. Kornhuber** & A. Howden-Chapman: [How Weather Lost Its Innocence – an Illustrated History of Extreme Weather Attribution](https://www.anthroposphere.co.uk/post/how-weather-lost-its-innocence). *Anthroposphere - The Oxford Clim. Rev.* (2019) 
+\* **K. Kornhuber** & A. Howden-Chapman: [How Weather Lost Its Innocence – an Illustrated History of Extreme Weather Attribution](https://www.anthroposphere.co.uk/post/how-weather-lost-its-innocence). *Anthroposphere - The Oxford Clim. Rev.* (2019). 
 
 \* **K. Kornhuber**: [Wetter im Wandel. Wie der Klimawandel unser Wetter der Zukunft beeinflusst] (https://www.bpb.de/apuz/302645/wetter).
-in *Aus Politik und Zeitgeschichte*, Bundeszentrale für politische Bildung (2019)
+in *Aus Politik und Zeitgeschichte*, Bundeszentrale für politische Bildung (2019).
 
 \* P. Pfleiderer, **K. Kornhuber**, D. Coumou, C. F. Schleussner: [How extreme weather conditions could last longer due to climate change](https://www.carbonbrief.org/guest-post-how-extreme-weather-conditions-could-last-longer-due-to-climate-change). *Carbon Brief* (2019)
 
@@ -51,7 +51,7 @@ M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller, S. Pet
 
 V. Petoukhov, S. Petri, **K. Kornhuber**, K. Thonicke, D. Coumou, and H. J. Schellnhuber: [Alberta wildfire 2016: A potential contribution from anomalous planetary wave dynamics](https://www.nature.com/articles/s41598-018-30812-z). *Sci. Reports* 8, 12375 (2018). doi:10.1038/s41598-018-30812-z
 
-\* Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner: [Hot, dry or flooded - more weather extremes beyond 1.5° warming](https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/). *Climate Analytics* (2018)
+\* Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner: [Hot, dry or flooded - more weather extremes beyond 1.5° warming](https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/). *Climate Analytics* (2018).
 
 #### 2016-2017 
  
@@ -65,7 +65,7 @@ M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller and D. 
 
 V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Schellnhuber, [The role of quasi-resonant planetary wave dynamics in recent boreal spring-to-autumn extreme events](https://www.pnas.org/content/113/25/6862),*Proc. Natl. Acad. Sci.* ,113, 6863-6867 (2016). doi:10.1073/pnas.1606300113
 
-\* **K. Kornhuber**, [COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele](https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/) *Spektrum der Wissenschaft* (2016) 
+\* **K. Kornhuber**, [COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele](https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/) *Spektrum der Wissenschaft* (2016). 
 english version [here](https://climate-exchange.org/2017/01/09/cop22-marrakesh-small-steps-towards-the-paris-climate-goals/)
 
 <sup>(\* Denotes Non-peer-reviewed publications such as book chapters, comments and magazine and blog-articles)</sup>
