@@ -38,7 +38,7 @@ C. Huntingford, D. Mitchell, **K. Kornhuber**, D. Coumou, S. Osprey, Myles Allen
 \* **K. Kornhuber**: [Wetter im Wandel. Wie der Klimawandel unser Wetter der Zukunft beeinflusst] (https://www.bpb.de/apuz/302645/wetter).
 in *Aus Politik und Zeitgeschichte*, Bundeszentrale für politische Bildung (2019).
 
-\* P. Pfleiderer, **K. Kornhuber**, D. Coumou, C. F. Schleussner: [How extreme weather conditions could last longer due to climate change](https://www.carbonbrief.org/guest-post-how-extreme-weather-conditions-could-last-longer-due-to-climate-change). *Carbon Brief* (2019)
+\* P. Pfleiderer, **K. Kornhuber**, D. Coumou, C. F. Schleussner: [How extreme weather conditions could last longer due to climate change](https://www.carbonbrief.org/guest-post-how-extreme-weather-conditions-could-last-longer-due-to-climate-change). *Carbon Brief* (2019).
 
 \* C. Raymond, D. Coumou, T. Foreman, A. King, S. Perkins-Kirkpatrick, **K. Kornhuber**, C. Lesk, C. Mora, S. Russo, and S. Vijverberg: [Projections and Hazards of Future Extreme Heat](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190455811.001.0001/oxfordhb-9780190455811-e-59) (eds. Tad Pfeffer, Joel Smith, K. L. Ebi), Oxford University Press (2019). doi:10.1093/oxfordhb/9780190455811.013.59
 
@@ -57,7 +57,7 @@ V. Petoukhov, S. Petri, **K. Kornhuber**, K. Thonicke, D. Coumou, and H. J. Sche
  
 **K. Kornhuber**, V. Petoukhov, S. Petri, S. Rahmstorf and D. Coumou, [Evidence for wave resonance as a key mechanism for generating high-amplitude quasi-stationary waves in boreal summer](https://journals.ametsoc.org/view/journals/clim/30/16/jcli-d-16-0703.1.xml), *Clim. Dyn.* 49, 1961-1979 (2017). doi:10.1007/s00382-016-3399-6
 
-**K. Kornhuber**, V. Petoukhov, D. Karoly, S. Petri, S. Rahmstorf and D. Coumou, [Summertime Planetary Wave-Resonance in the Northern and Southern Hemispheres](https://journals.ametsoc.org/view/journals/clim/30/16/jcli-d-16-0703.1.xml), *J. Clim.* 30, 6133-6150 (2017). doi:10.1175/JCLI-D-16-0703.
+**K. Kornhuber**, V. Petoukhov, D. Karoly, S. Petri, S. Rahmstorf and D. Coumou, [Summertime Planetary Wave-Resonance in the Northern and Southern Hemispheres](https://journals.ametsoc.org/view/journals/clim/30/16/jcli-d-16-0703.1.xml), *J. Clim.* 30, 6133-6150 (2017). doi:10.1175/JCLI-D-16-0703
 
 M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller and D. Coumou, [Influence of Anthropogenic Climate Change on Planetary Wave Resonance and Extreme Weather Events](https://www.nature.com/articles/srep45242), *Sci. Reports* 7, 45242 (2017). doi:10.1038/srep45242 
 
