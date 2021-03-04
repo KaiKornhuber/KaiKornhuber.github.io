@@ -51,7 +51,7 @@ M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller, S. Pet
 
 V. Petoukhov, S. Petri, **K. Kornhuber**, K. Thonicke, D. Coumou, and H. J. Schellnhuber: [Alberta wildfire 2016: A potential contribution from anomalous planetary wave dynamics](https://www.nature.com/articles/s41598-018-30812-z). *Sci. Reports* 8, 12375 (2018). doi:10.1038/s41598-018-30812-z
 
-\* Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner: [Hot, dry or flooded - more weather extremes beyond 1.5° warming](https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/) *Climate Analytics* (2018).
+\* Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner: [Hot, dry or flooded - more weather extremes beyond 1.5° warming](https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/) *Climate Analytics Blog* (2018).
 
 #### 2016-2017 
  
