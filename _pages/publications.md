@@ -44,7 +44,7 @@ in *Aus Politik und Zeitgeschichte*, Bundeszentrale für politische Bildung (201
 
 #### 2018
 
-**K. Kornhuber**, Rossby Wave Dynamics and Changes in Summertime Weather Extremes, 
+**K. Kornhuber**, *Rossby Wave Dynamics and Changes in Summertime Weather Extremes*, 
 PhD-Thesis, University of Potsdam (2018)
 
 M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller, S. Petri and D. Coumou: [Projected Changes in Persistent Extreme Warm-Season Weather Events: The Role of Quasi-Resonant Amplification](https://advances.sciencemag.org/content/4/10/eaat3272), *Science Advances* 4 (10), eaat3272, (2018). doi:10.1126/sciadv.aat3272
@@ -61,7 +61,7 @@ V. Petoukhov, S. Petri, **K. Kornhuber**, K. Thonicke, D. Coumou, and H. J. Sche
 
 M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller and D. Coumou, [Influence of Anthropogenic Climate Change on Planetary Wave Resonance and Extreme Weather Events](https://www.nature.com/articles/srep45242), *Sci. Reports* 7, 45242 (2017). doi:10.1038/srep45242 
 
-\* D. Coumou, **K. Kornhuber**, J. Lehmann and V. Petoukhov [Weakened Flow, Persistent Circulation, and Prolonged Weather Extremes in Boreal Summern](https://www.wiley.com/en-us/Climate+Extremes%3A+Patterns+and+Mechanisms-p-9781119067849) in Climate Extremes: Patterns and Mechanisms (eds. Wang, S.-Y.S.Yoon,j.-H., Funk, C.C. & Gillies, R.R.) 61-73, John Wiley & Sons (2017). doi: 10.1002/9781119068020.ch4
+\* D. Coumou, **K. Kornhuber**, J. Lehmann and V. Petoukhov [Weakened Flow, Persistent Circulation, and Prolonged Weather Extremes in Boreal Summern](https://www.wiley.com/en-us/Climate+Extremes%3A+Patterns+and+Mechanisms-p-9781119067849) in *Climate Extremes: Patterns and Mechanisms* (eds. Wang, S.-Y.S.Yoon,j.-H., Funk, C.C. & Gillies, R.R.) 61-73, John Wiley & Sons (2017). doi: 10.1002/9781119068020.ch4
 
 V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Schellnhuber, [The role of quasi-resonant planetary wave dynamics in recent boreal spring-to-autumn extreme events](https://www.pnas.org/content/113/25/6862), *Proc. Natl. Acad. Sci.*, 113, 6863-6867 (2016). doi:10.1073/pnas.1606300113
 
