@@ -10,7 +10,7 @@ author_profile: true
 
 #### 2021
 
-**K. Kornhuber** & Tamarin‐Brodsky, T.:  [Future changes in Northern Hemisphere summer weather persistence linked to projected Arctic warming](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL091603). *Geophysical Research Letters*, 48, e2020GL091603 (2021). doi:10.1029/2020GL091603
+**K. Kornhuber** & T. Tamarin‐Brodsky:  [Future changes in Northern Hemisphere summer weather persistence linked to projected Arctic warming](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL091603). *Geophysical Research Letters*, 48, e2020GL091603 (2021). doi:10.1029/2020GL091603
 
 #### 2020
 
