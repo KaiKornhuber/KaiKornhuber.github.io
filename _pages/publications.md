@@ -40,7 +40,7 @@ in *Aus Politik und Zeitgeschichte*, Bundeszentrale für politische Bildung (201
 
 \* P. Pfleiderer, **K. Kornhuber**, D. Coumou, C. F. Schleussner: [How extreme weather conditions could last longer due to climate change](https://www.carbonbrief.org/guest-post-how-extreme-weather-conditions-could-last-longer-due-to-climate-change). *Carbon Brief* (2019)
 
-\* C. Raymond, D. Coumou, T. Foreman, A. King, S. Perkins-Kirkpatrick, **K. Kornhuber**, C. Lesk, C. Mora, S. Russo, and S. Vijverberg: [Projections and Hazards of Future Extreme Heat (eds. Tad Pfeffer, Joel Smith, K. L. Ebi), Oxford University Press.](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190455811.001.0001/oxfordhb-9780190455811-e-59) (2019) doi:10.1093/oxfordhb/9780190455811.013.59
+\* C. Raymond, D. Coumou, T. Foreman, A. King, S. Perkins-Kirkpatrick, **K. Kornhuber**, C. Lesk, C. Mora, S. Russo, and S. Vijverberg: [Projections and Hazards of Future Extreme Heat](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190455811.001.0001/oxfordhb-9780190455811-e-59) (eds. Tad Pfeffer, Joel Smith, K. L. Ebi), Oxford University Press (2019). doi:10.1093/oxfordhb/9780190455811.013.59
 
 #### 2018
 
@@ -51,7 +51,7 @@ M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller, S. Pet
 
 V. Petoukhov, S. Petri, **K. Kornhuber**, K. Thonicke, D. Coumou, and H. J. Schellnhuber: [Alberta wildfire 2016: A potential contribution from anomalous planetary wave dynamics](https://www.nature.com/articles/s41598-018-30812-z). *Sci. Reports* 8, 12375 (2018). doi:10.1038/s41598-018-30812-z
 
-\* Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner: [Hot, dry or flooded - more weather extremes beyond 1.5° warming](https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/). *Climate Analytics* (2018).
+\* Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner: [Hot, dry or flooded - more weather extremes beyond 1.5° warming](https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/) *Climate Analytics* (2018).
 
 #### 2016-2017 
  
