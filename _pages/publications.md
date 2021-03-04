@@ -18,7 +18,7 @@ C. Raymond, R. M. Horton, J. Zscheischler, O. Martius, A. AghaKouchak, J. Balch,
 
 **K. Kornhuber**, D. Coumou, L. Vogel, C. Lesk, J. F. Donges, J. Lehmann and R. Horton: [Circumglobal Rossby waves enhance risk of simultaneous heat extremes in major breadbasket regions](https://www.nature.com/articles/s41558-019-0637-z). *Nature Climate Change* 10, 48–53 (2020). doi:10.1038/s41558-019-0637-z
 
-\* G. Messori, E. Bevacqua, R. Caballero, D. Coumou, P. De Luca, D. Faranda, **K.Kornhuber** , O. Martius, F. Pons, C. Raymond: [Compound climate events and extremes in the mid-latitudes: dynamics, simulation and statistical characterisation](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-20-0289.1/BAMS-D-20-0289.1.xml), *BAMS*, 1-13 (2020). doi:/10.1175/BAMS-D-20-0289.1
+\* G. Messori, E. Bevacqua, R. Caballero, D. Coumou, P. De Luca, D. Faranda, **K. Kornhuber** , O. Martius, F. Pons, C. Raymond: [Compound climate events and extremes in the mid-latitudes: dynamics, simulation and statistical characterisation](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-20-0289.1/BAMS-D-20-0289.1.xml), *BAMS*, 1-13 (2020). doi:/10.1175/BAMS-D-20-0289.1
 
 #### 2019
 
