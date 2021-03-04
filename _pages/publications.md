@@ -64,14 +64,14 @@ Hot, dry or flooded - more weather extremes beyond 1.5° warming. Q. Lejeune, F.
 
 **K. Kornhuber**, V. Petoukhov, D. Karoly, S. Petri, S. Rahmstorf and D. Coumou, Summertime Planetary Wave-Resonance in the Northern and Southern Hemispheres, J. Clim. 30, 6133-6150 (2017). doi: 10.1175/JCLI-D-16-0703. 
 
-M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller and D. Coumou, Influence of Anthropogenic Climate Change on Planetary Wave Resonance and Extreme Weather Events, Sci. Reports 7, 45242 (2017). doi: 10.1038/srep45242
+M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller and D. Coumou, Influence of Anthropogenic Climate Change on Planetary Wave Resonance and Extreme Weather Events, Sci. Reports 7, 45242 (2017). doi: 10.1038/srep45242 [link](https://www.nature.com/articles/srep45242)
 
-D. Coumou, **K. Kornhuber**, J. Lehmann and V. Petoukhov in Climate Extremes: Patterns and Mechanisms (eds. Wang, S.-Y.S.Yoon,j.-H., Funk, C.C. & Gillies, R.R.) 61-73, John Wiley & Sons (2017). doi: 10.1002/9781119068020.ch4
+D. Coumou, **K. Kornhuber**, J. Lehmann and V. Petoukhov in Climate Extremes: Patterns and Mechanisms (eds. Wang, S.-Y.S.Yoon,j.-H., Funk, C.C. & Gillies, R.R.) 61-73, John Wiley & Sons (2017). doi: 10.1002/9781119068020.ch4 [link](https://www.wiley.com/en-us/Climate+Extremes%3A+Patterns+and+Mechanisms-p-9781119067849)
 
-V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Schellnhuber, The role of quasi-resonant planetary wave dynamics in recent boreal spring-to-autumn extreme events, Proc. Natl. Acad. Sci. 113, 6863-6867 (2016). doi: 10.1073/pnas.1606300113
+V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Schellnhuber, The role of quasi-resonant planetary wave dynamics in recent boreal spring-to-autumn extreme events, Proc. Natl. Acad. Sci. 113, 6863-6867 (2016). doi: 10.1073/pnas.1606300113 [link](https://www.pnas.org/content/113/25/6862)
 
-**K. Kornhuber**,COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele Spektrum der Wissenschaft (2016) [link] (https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/)
-[link eng. version] (https://climate-exchange.org/2017/01/09/cop22-marrakesh-small-steps-towards-the-paris-climate-goals/)
+**K. Kornhuber**,COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele Spektrum der Wissenschaft (2016) [link](https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/)
+[link eng. version](https://climate-exchange.org/2017/01/09/cop22-marrakesh-small-steps-towards-the-paris-climate-goals/)
 
 
 
