@@ -14,10 +14,9 @@ author_profile: true
 
 **K. Kornhuber** & T. Tamarin: Future changes in Northern Hemisphere summer weather persistence linked to projected Arctic warming. Geophysical Research Letters, accepted: https://eartharxiv.org/repository/view/1913/ (2020).
 
-C. Raymond, R. M. Horton, J. Zscheischler, O. Martius, A. AghaKouchak, J. Balch, S. G. Bowen, S. J. Camargo, J. Hess, **K. Kornhuber**, M. Oppenheimer, A. C. Ruane, T. Wahl, K. White: Understanding and Managing Connected Extreme Events - A Climate Perspective. Nature Climate Change 10, 611–621 (2020).doi:10.1038/s41558-020-0790-4.
+C. Raymond, R. M. Horton, J. Zscheischler, O. Martius, A. AghaKouchak, J. Balch, S. G. Bowen, S. J. Camargo, J. Hess, **K. Kornhuber**, M. Oppenheimer, A. C. Ruane, T. Wahl, K. White: Understanding and Managing Connected Extreme Events - A Climate Perspective. Nature Climate Change 10, 611–621 (2020). doi:10.1038/s41558-020-0790-4.
 
-**K. Kornhuber**, D. Coumou, L. Vogel, C. Lesk, J. F. Donges, J. Lehmann and R. Horton: Circumglobal Rossby waves enhance risk of simultaneous heat extremes in major breadbasket regions. Nature Climate Change 10, 48–53 (2020) 
-doi: 10.1038/s41558-019-0637-z
+**K. Kornhuber**, D. Coumou, L. Vogel, C. Lesk, J. F. Donges, J. Lehmann and R. Horton: Circumglobal Rossby waves enhance risk of simultaneous heat extremes in major breadbasket regions. Nature Climate Change 10, 48–53 (2020) doi: 10.1038/s41558-019-0637-z
 
 G. Messori, E. Bevacqua, R. Caballero, D. Coumou, P. De Luca, D. Faranda, **K.Kornhuber** , O. Martius, F. Pons, C. Raymond: Compound climate events and extremes in the mid-latitudes: dynamics, simulation and statistical characterisation, Bulletin of the American Meteorological Society, 1-13 (2020)
 
@@ -56,21 +55,21 @@ M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller, S. Pet
 
 V. Petoukhov, S. Petri, **K. Kornhuber**, K. Thonicke, D. Coumou, and H. J. Schellnhuber: Alberta wildfire 2016: A potential contribution from anomalous planetary wave dynamics. Sci. Reports 8, 12375 (2018).  doi:10.1038/s41598-018-30812-z
 
-Hot, dry or flooded - more weather extremes beyond 1.5° warming. Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner (The Climate Analytics Blog, August 2018). Link: https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/
+Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner: Hot, dry or flooded - more weather extremes beyond 1.5° warming.(The Climate Analytics Blog, August 2018). [link](https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/)
 
 #### 2016-2017
 
-**K. Kornhuber**, V. Petoukhov, S. Petri, S. Rahmstorf and D. Coumou, Evidence for wave resonance as a key mechanism for generating high-amplitude quasi-stationary waves in boreal summer, Clim. Dyn. 49, 1961-1979 (2017). doi: 10.1007/s00382-016-3399-6
+**K. Kornhuber**, V. Petoukhov, S. Petri, S. Rahmstorf and D. Coumou, Evidence for wave resonance as a key mechanism for generating high-amplitude quasi-stationary waves in boreal summer, *Clim. Dyn.* 49, 1961-1979 (2017). doi: 10.1007/s00382-016-3399-6 [link](https://journals.ametsoc.org/view/journals/clim/30/16/jcli-d-16-0703.1.xml)
 
 **K. Kornhuber**, V. Petoukhov, D. Karoly, S. Petri, S. Rahmstorf and D. Coumou, Summertime Planetary Wave-Resonance in the Northern and Southern Hemispheres, J. Clim. 30, 6133-6150 (2017). doi: 10.1175/JCLI-D-16-0703. 
 
-M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller and D. Coumou, Influence of Anthropogenic Climate Change on Planetary Wave Resonance and Extreme Weather Events, Sci. Reports 7, 45242 (2017). doi: 10.1038/srep45242 [link](https://www.nature.com/articles/srep45242)
+M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller and D. Coumou, Influence of Anthropogenic Climate Change on Planetary Wave Resonance and Extreme Weather Events, *Sci. Reports* 7, 45242 (2017). doi: 10.1038/srep45242 [link](https://www.nature.com/articles/srep45242)
 
 D. Coumou, **K. Kornhuber**, J. Lehmann and V. Petoukhov in Climate Extremes: Patterns and Mechanisms (eds. Wang, S.-Y.S.Yoon,j.-H., Funk, C.C. & Gillies, R.R.) 61-73, John Wiley & Sons (2017). doi: 10.1002/9781119068020.ch4 [link](https://www.wiley.com/en-us/Climate+Extremes%3A+Patterns+and+Mechanisms-p-9781119067849)
 
-V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Schellnhuber, The role of quasi-resonant planetary wave dynamics in recent boreal spring-to-autumn extreme events, Proc. Natl. Acad. Sci. 113, 6863-6867 (2016). doi: 10.1073/pnas.1606300113 [link](https://www.pnas.org/content/113/25/6862)
+V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Schellnhuber, The role of quasi-resonant planetary wave dynamics in recent boreal spring-to-autumn extreme events, *Proc. Natl. Acad. Sci.* 113, 6863-6867 (2016). doi: 10.1073/pnas.1606300113 [link](https://www.pnas.org/content/113/25/6862)
 
-**K. Kornhuber**,COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele *Spektrum der Wissenschaft* (2016) link [ger.](https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/)
+**K. Kornhuber**, COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele *Spektrum der Wissenschaft* (2016) link [ger.](https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/)
 /[eng.](https://climate-exchange.org/2017/01/09/cop22-marrakesh-small-steps-towards-the-paris-climate-goals/)
 
 
