@@ -35,9 +35,9 @@ M. Drouard, **K. Kornhuber**, T. Woollings: Disentangling dynamic contributions 
 
 C. Huntingford, D. Mitchell, **K. Kornhuber**, D. Coumou, S. Osprey, Myles Allen: Assessing changes in risk of amplified planetary waves in a warming world. *Atmospheric Science Letters*, 20 (8) (2019). [doi:10.1002/asl.929](https://rmets.onlinelibrary.wiley.com/doi/10.1002/asl.929) 
 
-**K. Kornhuber** & A. Howden-Chapman: How Weather Lost Its Innocence – an Illustrated History of Extreme Weather Attribution. [*Anthroposphere - The Oxford Clim. Rev.*](https://www.anthroposphere.co.uk/post/how-weather-lost-its-innocence) (2019).  
+\* **K. Kornhuber** & A. Howden-Chapman: How Weather Lost Its Innocence – an Illustrated History of Extreme Weather Attribution. [*Anthroposphere - The Oxford Clim. Rev.*](https://www.anthroposphere.co.uk/post/how-weather-lost-its-innocence) (2019) 
 
-**K. Kornhuber**: Wetter im Wandel. Wie der Klimawandel unser Wetter der Zukunft beeinflusst.
+\* **K. Kornhuber**: Wetter im Wandel. Wie der Klimawandel unser Wetter der Zukunft beeinflusst.
 in [*Aus Politik und Zeitgeschichte*](https://www.bpb.de/apuz/302645/wetter) Bundeszentrale für politische Bildung (2019)
 
 \* P. Pfleiderer, **K. Kornhuber**, D. Coumou, C. F. Schleussner: How extreme weather conditions could last longer due to climate change. [*Carbon Brief*](https://www.carbonbrief.org/guest-post-how-extreme-weather-conditions-could-last-longer-due-to-climate-change) (2019)
