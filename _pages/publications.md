@@ -16,7 +16,7 @@ author_profile: true
 
 C. Raymond, R. M. Horton, J. Zscheischler, O. Martius, A. AghaKouchak, J. Balch, S. G. Bowen, S. J. Camargo, J. Hess, **K. Kornhuber**, M. Oppenheimer, A. C. Ruane, T. Wahl, K. White: [Understanding and Managing Connected Extreme Events - A Climate Perspective](https://www.nature.com/articles/s41558-020-0790-4). *Nature Climate Change* 10, 611–621 (2020). doi:10.1038/s41558-020-0790-4
 
-**K. Kornhuber**, D. Coumou, L. Vogel, C. Lesk, J. F. Donges, J. Lehmann and R. Horton: Circumglobal Rossby waves enhance risk of simultaneous heat extremes in major breadbasket regions. *Nature Climate Change* 10, 48–53 (2020). [doi:10.1038/s41558-019-0637-z](https://www.nature.com/articles/s41558-019-0637-z)
+**K. Kornhuber**, D. Coumou, L. Vogel, C. Lesk, J. F. Donges, J. Lehmann and R. Horton: [Circumglobal Rossby waves enhance risk of simultaneous heat extremes in major breadbasket regions](https://www.nature.com/articles/s41558-019-0637-z). *Nature Climate Change* 10, 48–53 (2020). doi:10.1038/s41558-019-0637-z
 
 \* G. Messori, E. Bevacqua, R. Caballero, D. Coumou, P. De Luca, D. Faranda, **K.Kornhuber** , O. Martius, F. Pons, C. Raymond: [Compound climate events and extremes in the mid-latitudes: dynamics, simulation and statistical characterisation](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-20-0289.1/BAMS-D-20-0289.1.xml), *BAMS*, 1-13 (2020). doi:/10.1175/BAMS-D-20-0289.1
 
@@ -65,7 +65,7 @@ M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller and D. 
 
 V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Schellnhuber, [The role of quasi-resonant planetary wave dynamics in recent boreal spring-to-autumn extreme events](https://www.pnas.org/content/113/25/6862),*Proc. Natl. Acad. Sci.* ,113, 6863-6867 (2016). doi:10.1073/pnas.1606300113
 
-\* **K. Kornhuber**, [COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele]((https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/) *Spektrum der Wissenschaft* (2016) 
+\* **K. Kornhuber**, [COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele](https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/) *Spektrum der Wissenschaft* (2016) 
 english version [here](https://climate-exchange.org/2017/01/09/cop22-marrakesh-small-steps-towards-the-paris-climate-goals/)
 
 <sup>(\* Denotes Non-peer-reviewed publications such as book chapters, comments and magazine and blog-articles)</sup>
