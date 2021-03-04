@@ -63,7 +63,7 @@ M. E. Mann, S. Rahmstorf, **K. Kornhuber**, B. A. Steinman, S. K. Miller and D. 
 
 \* D. Coumou, **K. Kornhuber**, J. Lehmann and V. Petoukhov [Weakened Flow, Persistent Circulation, and Prolonged Weather Extremes in Boreal Summern](https://www.wiley.com/en-us/Climate+Extremes%3A+Patterns+and+Mechanisms-p-9781119067849) in Climate Extremes: Patterns and Mechanisms (eds. Wang, S.-Y.S.Yoon,j.-H., Funk, C.C. & Gillies, R.R.) 61-73, John Wiley & Sons (2017). doi: 10.1002/9781119068020.ch4
 
-V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Schellnhuber, [The role of quasi-resonant planetary wave dynamics in recent boreal spring-to-autumn extreme events](https://www.pnas.org/content/113/25/6862),*Proc. Natl. Acad. Sci.* ,113, 6863-6867 (2016). doi:10.1073/pnas.1606300113
+V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Schellnhuber, [The role of quasi-resonant planetary wave dynamics in recent boreal spring-to-autumn extreme events](https://www.pnas.org/content/113/25/6862), *Proc. Natl. Acad. Sci.*, 113, 6863-6867 (2016). doi:10.1073/pnas.1606300113
 
 \* **K. Kornhuber**, [COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele](https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/) *Spektrum der Wissenschaft* (2016). 
 english version [here](https://climate-exchange.org/2017/01/09/cop22-marrakesh-small-steps-towards-the-paris-climate-goals/)
