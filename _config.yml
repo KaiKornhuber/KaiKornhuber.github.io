@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kai Kornhuber"
   avatar           : "profile.jpg"
-  bio              : "Climate Scientist at \ Earth Institute, Columbia University."
+  bio              : "Climate Scientist at \\ Earth Institute, Columbia University."
   location         : "Brooklyn, New York"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
