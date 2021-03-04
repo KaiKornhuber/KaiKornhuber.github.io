@@ -7,9 +7,9 @@ author_profile: true
 
 * Denotes Non-Peer reviewed publications such as book chapters and magazine articles
 
-##Submitted / in Revision
+### Submitted / in Revision
 
-###2020
+### 2020
 (full list available on ORCID/ResearchGate/Google Scholar)
 
 **K. Kornhuber** & T. Tamarin: Future changes in Northern Hemisphere summer weather persistence linked to projected Arctic warming. Geophysical Research Letters, accepted: https://eartharxiv.org/repository/view/1913/ (2020).
@@ -21,7 +21,7 @@ doi: 10.1038/s41558-019-0637-z
 
 G. Messori, E. Bevacqua, R. Caballero, D. Coumou, P. De Luca, D. Faranda, **K.Kornhuber** , O. Martius, F. Pons, C. Raymond: Compound climate events and extremes in the mid-latitudes: dynamics, simulation and statistical characterisation, Bulletin of the American Meteorological Society, 1-13 (2020)
 
-###2019
+### 2019
 
 P. Pfleiderer, D. Coumou, **K. Kornhuber** and C. F. Schleussner: More persistent boreal summer weather in a +2°C world. Nature Climate Change 9, 666-671 (2019)
 doi: 10.1038/s41558-019-0555-0
@@ -47,7 +47,7 @@ K. Kornhuber, D. Coumou, C. F. Schleussner. Guest Post at CarbonBrief (August 20
 
 C. Raymond, D. Coumou, T. Foreman, A. King, S. Perkins-Kirkpatrick, **K. Kornhuber**, C. Lesk, C. Mora, S. Russo, and S. Vijverberg: Projections and Hazards of Future Extreme Heat (eds. Tad Pfeffer, Joel Smith, K. L. Ebi), Oxford University Press. (2019)
 
-##2018
+### 2018
 
 **K. Kornhuber**, Rossby Wave Dynamics and Changes in Summertime Weather Extremes, 
 PhD-Thesis, University of Potsdam (2018)
@@ -58,7 +58,7 @@ V. Petoukhov, S. Petri, **K. Kornhuber**, K. Thonicke, D. Coumou, and H. J. Sche
 
 Hot, dry or flooded - more weather extremes beyond 1.5° warming. Q. Lejeune, F. Saheed, **K. Kornhuber** & C.F. Schleussner (The Climate Analytics Blog, August 2018). Link: https://climateanalytics.org/blog/2018/hot-dry-or-flooded-more-weather-extremes-beyond-15c-warming/
 
-##2016-2017
+### 2016-2017
 
 **K. Kornhuber**, V. Petoukhov, S. Petri, S. Rahmstorf and D. Coumou, Evidence for wave resonance as a key mechanism for generating high-amplitude quasi-stationary waves in boreal summer, Clim. Dyn. 49, 1961-1979 (2017). doi: 10.1007/s00382-016-3399-6
 
