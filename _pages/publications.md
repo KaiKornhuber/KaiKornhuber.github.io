@@ -40,7 +40,7 @@ in *Aus Politik und Zeitgeschichte*, Bundeszentrale für politische Bildung (201
 
 \* P. Pfleiderer, **K. Kornhuber**, D. Coumou, C. F. Schleussner: [How extreme weather conditions could last longer due to climate change](https://www.carbonbrief.org/guest-post-how-extreme-weather-conditions-could-last-longer-due-to-climate-change). *Carbon Brief* (2019).
 
-\* C. Raymond, D. Coumou, T. Foreman, A. King, S. Perkins-Kirkpatrick, **K. Kornhuber**, C. Lesk, C. Mora, S. Russo, and S. Vijverberg: [Projections and Hazards of Future Extreme Heat](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190455811.001.0001/oxfordhb-9780190455811-e-59) (eds. Tad Pfeffer, Joel Smith, K. L. Ebi), *Oxford Handbooks*, Oxford University Press (2019). doi:10.1093/oxfordhb/9780190455811.013.59
+\* C. Raymond, D. Coumou, T. Foreman, A. King, S. Perkins-Kirkpatrick, **K. Kornhuber**, C. Lesk, C. Mora, S. Russo, and S. Vijverberg: [Projections and Hazards of Future Extreme Heat](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190455811.001.0001/oxfordhb-9780190455811-e-59) in *The Oxford Handbook of Planning for Climate Change Hazards* (eds. Tad Pfeffer, Joel Smith, K. L. Ebi), Oxford University Press (2019). doi:10.1093/oxfordhb/9780190455811.013.59
 
 #### 2018
 
