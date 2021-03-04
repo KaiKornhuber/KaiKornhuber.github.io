@@ -71,7 +71,7 @@ V. Petoukhov, S. Petri, S. Rahmstorf, D. Coumou, **K. Kornhuber** and H. J. Sche
 \* **K. Kornhuber**, COP 22 in Marrakesch-Kleine Schritte zur Realisierung der Pariser Klimaziele *Spektrum der Wissenschaft* (2016) [ger.](https://scilogs.spektrum.de/klimalounge/cop-22-in-marrakesch-kleine-schritte-zur-realisierung-der-pariser-klimaziele/)
 /[eng.](https://climate-exchange.org/2017/01/09/cop22-marrakesh-small-steps-towards-the-paris-climate-goals/)
 
-(*\ Denotes Non-Peer reviewed publications such as book chapters, comments and magazine and blog-articles)
+<sup>(\* Denotes Non-Peer reviewed publications such as book chapters, comments and magazine and blog-articles)</sup>
 
 <!--{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
