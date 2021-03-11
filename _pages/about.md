@@ -41,7 +41,6 @@ https://blogs.ei.columbia.edu/2019/08/19/persistent-heat-drought-rain-warming-wo
 New York Times
 https://www.nytimes.com/2019/07/01/climate/europe-heat-wave.html
 
-<html> <h1>Add a hyperlink to an image</h1> </html>
 ------
 
 
