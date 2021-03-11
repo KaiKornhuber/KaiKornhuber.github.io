@@ -8,52 +8,53 @@ redirect_from:
 ---
 
 {% include base_path %}
+### CONTACT & PERSONAL DETAILS	
+Dr. Kai Kornhuber 
+Lamont-Doherty Earth Observatory, Columbia University
+61 Rte 9W, Palisades, NY 10964
+e-mail: kk3397@columbia.edu
+web: https://www.earth.columbia.edu/articles/view/58#Kornhuber
+ORCID: http://orcid.org/0000-0001-5466-2059  
+ResearchGate: https://www.researchgate.net/profile/Kai_Kornhuber
+twitter: @kkornhuber
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### CURRENT POSITIONS	
+_Columbia University_ (since 06/2019)
+* Earth Institute Postdoctoral Researcher, Lamont-Doherty Earth Observatory
+Self-initiated project: Global food security risks due to simultaneous weather extremes in teleconnected regions
+(Supervision: Prof. R. Horton, Prof. P. Gentine, Prof. M. Ting)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Co-PI Project, PERSEVERE within BMBF ClimXtreme Consortium
+* Working Group lead Risk-KAN Working Group on Compound Extremes
+* Steering Group Member High Impact Weather Project (WMO)
+* Visiting Scientist at Potsdam Institute for Climate Impact Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### FORMER ACADEMIC POSITIONS
+_University of Oxford_  (07/2018–06/2019)
+Postdoctoral Researcher, Dep. of Atmospheric, Oceanic and Planetary Physics
+(upervision: Dr. S. Osprey, Prof. L. Gray)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+_Climate Analytics_ (Berlin, Germany) (02/2018–06/2018)
+Research Associate, Science Team 
+
+_Potsdam Institute for Climate Impact Research_ (01/2013–06/2018)
+* Research Associate, Project: Extreme weather damage for ISIMIP2b-Impact Projections (02/2018–06/2018)                                                                                                                                                                                                                                        
+* PhD Candidate, BMBF-Project: Atmospheric Circulation and its relation to Extreme weather (05/2014–02/2018)                                                                                                        
+* Research Assistant: RDI: Earth System Analysis                                       09/2013–05/2014                                                                                                                                                                            * Research Assistant: RDII: Climate Impacts and Vulnerabilities                01/2013–09/2014
+
+### EDUCATION
+_University of Potsdam_ 
+
+* PhD in Climate Physics                                                                               (05/2014–06/2018)
+Thesis: Rossby Wave Dynamics and Changes in Summertime Weather Extremes
+(Supervision: Dr. D. Coumou and Prof. S. Rahmstorf)
+Final Grade: Summa Cum Laude / with distinction
+
+_Freie Universität Berlin_ 
+
+* Diplom in Physics (major) & Computer Science (minor)                           10/2005–07/2012                               
+Thesis: Electrophoretic Deposition of Cu2ZnSnS4 Nanocrystal Thin Films:  Structural and Compositional Analysis (part of BMBF-Project: Nano-PV)
+(Supervision: Dr. A. Ennaoui and Prof. M. Lux-Steiner)
+Final Grade: sehr gut / very good (1.3)
+
+                                      
